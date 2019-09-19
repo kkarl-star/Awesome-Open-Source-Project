@@ -2,7 +2,7 @@
 
 #### You wanna start to contribute to Open Source Projects? But following a repo turns your inbox to this?
 
-<img src="https://user-images.githubusercontent.com/55209225/65282006-2ceca780-db34-11e9-8084-10fe65db34af.png" alt="alt text" width="800" height="400">
+<img src="https://user-images.githubusercontent.com/55209225/65282006-2ceca780-db34-11e9-8084-10fe65db34af.png" alt="alt text" width="700" height="400">
 
 #### Problem is: When you watch a repo you get a notification for every comment, every issue every closing, you get it ...
 
@@ -16,3 +16,8 @@
 
 <img src="https://user-images.githubusercontent.com/55209225/65282035-3f66e100-db34-11e9-81e1-c8c0018af41f.png" alt="alt text" width="700" height="400">
 
+#### You can
+
+https://user-images.githubusercontent.com/55209225/65283376-43483280-db37-11e9-9ac7-3d002a84910b.png
+
+<img src="https://user-images.githubusercontent.com/55209225/65283376-43483280-db37-11e9-9ac7-3d002a84910b.png" alt="alt text" width="700" height="400">
