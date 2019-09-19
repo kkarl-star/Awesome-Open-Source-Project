@@ -10,5 +10,4 @@ But all you are interested in are issues that are suited as an easy first contri
 
 These issues have certain labels like "good first issue"
 
-<img src="
-https://user-images.githubusercontent.com/55209225/65282022-383fd300-db34-11e9-8bf3-8cd16e807fb3.png" alt="alt text" width="600" height="300">
+<img src="https://user-images.githubusercontent.com/55209225/65282022-383fd300-db34-11e9-8bf3-8cd16e807fb3.png" alt="alt text" width="600" height="300">
